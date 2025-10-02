@@ -1,1 +1,1 @@
-# Apple-and-Orange-algo
+# Apple-and-Orange-algo The program counts how many apples and oranges fall on Sam’s house, which is located between points s and t. Apples fall from tree a and oranges from tree b, with their distances given in arrays. The program calculates the landing positions, checks if they land on the house, and prints the total count of apples and oranges that do
